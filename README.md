@@ -4,13 +4,13 @@ Using TDD, write a parking calculator script that:
 - Receives arrival and departure date
 - Receives arrival and departure time
 - Have the following price table:
-    * One hour: 1 dollar
-    * Between two and four hours: 4 dollars
-    * Between four and six hours: 9 dollars
-    * Between six and eight hours: 15 dollars
-    * Between eight and ten hours: 19 dollars
-    * Between ten and twelve hours: 23 dollars
-    * Between twelve and twenty four hours: 41 dollars
+    * One hour: 7 dollars
+    * Between two and four hours: 11 dollars
+    * Between four and six hours: 17 dollars
+    * Between six and eight hours: 20 dollars
+    * Between eight and ten hours: 24 dollars
+    * Between ten and twelve hours: 28 dollars
+    * Between twelve and twenty four hours: 34 dollars
 - Calculates how much the client will pay based on the data entered
 - Displays that information
 
