@@ -24,4 +24,4 @@ Using TDD, write a parking calculator script that:
 - You **must** use TDD (Test Driven Development)
 - Measurements **might** be in pixels but **can** be in %, em or rem
 - The page **should** be responsive for desktop devices only, don't worry about mobile
-- You should figure out all error cases and create messages for each
+- You **should** figure out all error cases and create messages for each
