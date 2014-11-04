@@ -14,6 +14,11 @@ Using TDD, write a parking calculator script that:
 - Calculates how much the client will pay based on the data entered
 - Displays that information
 
+
+## Observations
+- The client might stay more than one day, there is no limit
+- All dates must be available, including weekends
+
 ## Start
 - Download, clone or fork this repo
 - Use the layout given in the /resources folder
